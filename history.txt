@@ -1,0 +1,327 @@
+    1  ls -a
+    2  cd code 
+    3  cd Code
+    4  ls -a
+    5  ls -a
+    6  mkdir Code
+    7  cd Code
+    8  cd .. 
+    9  rm Code
+   10  ls -a
+   11  exit
+   12  ls -a
+   13  cd Code
+   14  ls -a
+   15  vi README.md 
+   16  git add .
+   17  git clone https://github.com/superUserT/odin-recipes.git
+   18  cd odin-recipes
+   19  cd ..
+   20  cp README.md odin-recipes
+   21  cd odin-recipes
+   22  ls -a
+   23  git add .
+   24  git commit -a
+   25  apt list --upgradable
+   26  wsl.exe --update
+   27  git clone https://github.com/superUserT/simple_shell.git
+   28  ls a
+   29  ls -a
+   30  rm simple_shell
+   31  rmdir -rf simple_shell
+   32  rm -rf simple_shell
+   33  ls -a
+   34  cd Code 
+   35  ls -a
+   36  git clone https://github.com/superUserT/simple_shell.git
+   37  ls -a
+   38  cd simple_shell
+   39  ls -a
+   40  ./hsh
+   41  exit
+   42  cd Code
+   43  ls -a
+   44  cd odin-recipes
+   45  ls -a
+   46  vi README.md
+   47  mkdir recipes
+   48  vi index.hmtl
+   49  cd recipes
+   50  vi lasagna.html
+   51  rm lasagna.html
+   52  vi sushi.html
+   53  cd ..
+   54  ls -a
+   55  vi index.html
+   56  git add .
+   57  git commit -m "recipes"
+   58  ls -a
+   59  git cimmit -m "my son"
+   60  ls -a
+   61  cd Code
+   62  git add .
+   63  ls -a
+   64  cd cd odin-recipes
+   65  cd odin-recipes
+   66  ls -a
+   67  git add .
+   68  git commit -a
+   69  cd Code
+   70  cd odin-recipes
+   71  git add . 
+   72  git commit -m "recipes"
+   73  cd ..
+   74  $ git config --global user.email "rantshothabisomail@gmail.com"
+   75  $ git config --global user.name "Thabiso Rantsho"
+   76  git -version
+   77  \git -v
+   78  ls -a
+   79  $ git config --global user.name "superUserT"
+   80  cd ..
+   81  sudo apt-get install git-all
+   82  cd Code
+   83  ls -a
+   84  cdd ..
+   85  cd ..
+   86  ls -a
+   87  cd home
+   88  ls -a
+   89  cd Code
+   90  $ git config --global user.name "superUserT"
+   91  ls
+   92  cd Code 
+   93  ls -a
+   94  python -V
+   95  sudo apt-get update
+   96  sudo apt-get install python3.8
+   97  python -V
+   98  python
+   99  sudo apt install python3
+  100  mkidr 0x00-python-hello_world
+  101  mkdir 0x00-python-hello_world
+  102  cd 0x00-python-hello_world
+  103  vi 0-run
+  104  git add .
+  105  git commit -m "0-run"
+  106  git push
+  107  chmod + 0-run  
+  108  git add .
+  109  git commit -m "executable"
+  110  git push
+  111  vi README.md
+  112  git add .
+  113  git commit -m "o-run exe"
+  114  git push
+  115  ls -a
+  116  vi 0-run
+  117  export PYFILE=main.py
+  118  ./0-run
+  119  chmod u+x
+  120  chmod u+x 0-run
+  121  ./0-run
+  122  git add .
+  123  git commit -m "dont go in alone"
+  124  git push
+  125  chmod u+x 1-run_inline
+  126  git add .
+  127  git commit -m "run inline"
+  128  git push
+  129  git add .
+  130  git commit -m "run inline fix"
+  131  git push
+  132  chmod u+x 1-run_inline
+  133  git add .
+  134  git commit -m "1 fix 3"
+  135  git push
+  136  git add .
+  137  git commit -m "1 fix 4"
+  138  git push 
+  139  chmod u+x 1-run_inline
+  140  git add .
+  141  git commit -m "1 fix 5"
+  142  git push
+  143  chmod u+x 1-run_inline
+  144  ls -a 
+  145  rm 1-run_inline
+  146  vi 1-run_inline
+  147  chmod u+x 1-run_inline
+  148  git add .
+  149  git commit -m "fix 6"
+  150  git push
+  151  git add .
+  152  git commit -m "2-py"
+  153  git push
+  154  chmod u+x 2-print.py
+  155  git add .
+  156  git commit -m "2 fix 1"
+  157  git push
+  158  ./2-print.py
+  159  ;s -a 
+  160  ls -a
+  161  cd 0x03-python-data_structures
+  162  ls -a
+  163  ./2-main.py
+  164  vi 2-replace_in_list.py
+  165  ./2-main.py
+  166  vi 2-replace_in_list.py
+  167  ./2-main.py
+  168  vi 2-replace_in_list.py
+  169  ./2-main.py
+  170  git add .
+  171  git commit -m "2 replace"
+  172  git push
+  173  vi 3-main.py
+  174  vi 3-print_reversed_list_integer.py
+  175  chmod a+rx *.py
+  176  ./3-main.py
+  177  git add .
+  178  git commit -m "list revered"
+  179  git push
+  180  vi 3-print_reversed_list_integer.py
+  181  vi 4-main.py
+  182  vi 4-new_in_list.py
+  183  chmod a+rx *.py
+  184  ./4-main.py
+  185  vi 4-new_in_list.py
+  186  ls -a
+  187  cd 0x00-python-hello_world
+  188  ls -a
+  189  ./7-edges.py
+  190  ls -l
+  191  ls -a
+  192  vi lists.h
+  193  ls -a
+  194  vi 10-main.c
+  195  10-check_cycle.c
+  196  vi 10-check_cycle.c
+  197  vi 1-rectangle.py
+  198  vi 2-rectangle.py
+  199  vi 3-rectangle.py
+  200  vi 4-rectangle.py
+  201  pycodestyle *.py
+  202  git add .
+  203  git commit -m "second"
+  204  git push
+  205  python3 task10.py
+  206  pycodestyle task10.py
+  207  git add .
+  208  git commit -m "init task 10"
+  209  git push
+  210  git add .
+  211  git commit -m "string to list to string plus added exceptions"
+  212  git push
+  213  ls /
+  214  pwd
+  215  clear
+  216  git add .
+  217  git commit -m "a few changes"
+  218  git push
+  219  pycodestyle task10.py
+  220  git add .
+  221  git commit -m "pycodestyle"
+  222  git push
+  223  docker build -t test:pandas .
+  224  git pull
+  225  git add .
+  226  git commit -m "elements renamed"
+  227  git push
+  228  git branch
+  229  git checkout task/2
+  230  git pull
+  231  git add .
+  232  git commit -m "task 2 variables renamed"
+  233  git push
+  234  git add .
+  235  git commit -m "code improved"
+  236  git push
+  237  git pull origin main
+  238  git checkout task/3
+  239  ls -a
+  240  rm task5.py
+  241  ls -a
+  242  git add .
+  243  git commit -m "simplified task3"
+  244  git push
+  245  git checkout main
+  246  ls -a
+  247  git pull origin main
+  248  git checkout task/3
+  249  git merge main
+  250  git push -u origin task/3
+  251  ls -a
+  252  git branch
+  253  rm task5.py
+  254  ls -a
+  255  git add .
+  256  git commit -m "confilict resolution"
+  257  git push
+  258  git checkout main
+  259  git pull origin main
+  260  git checkout task/2
+  261  git merge main
+  262  git add .
+  263  git commit -m "conflict resloution"
+  264  git push
+  265  git merge main
+  266  git push -u origin task/2
+  267  rm task5.py
+  268  git branch
+  269  ls -a
+  270  git commit -m "task 5 removal"
+  271  git add .
+  272  git commit -m "task 5 removal"
+  273  git push
+  274  git checkout main
+  275  git pull origin main
+  276  git checkout task/1
+  277  git merge main
+  278  git add .
+  279  git commit -m "conflict resolution"
+  280  git push
+  281  ls -a
+  282  rm task5.py
+  283  git add .
+  284  git commit -m "task5 removal"
+  285  git push
+  286  git merge main
+  287  git push -u origin task/1
+  288  cd ..
+  289  mkdir git-basic-exercises
+  290  cd git-basic-exercises
+  291  git init
+  292  ls -a
+  293  git status
+  294  touch README.md
+  295  git status
+  296  git log
+  297  git add .
+  298  git status
+  299  git commit -m "initial commit"
+  300  git log
+  301  nano README.md
+  302  cat README.md
+  303  git status
+  304  git add .
+  305  git commit -m "second commit"
+  306  vi README.md
+  307  git add .
+  308  git commit -m "third commit"
+  309  git log
+  310  git checkout 626c7bbcb774b67f51ecd0cd74df944626f28ba3
+  311  git branch
+  312  cat README.md
+  313  git checkout main
+  314  git checkout master
+  315  cat README.md
+  316  git checkout -b milkshake-flavours
+  317  git branch
+  318  nano milkshakes.m
+  319  git status
+  320  git add .
+  321  git commit -m "added initial flavours"
+  322  git branch
+  323  git checkout master
+  324  git checkout -b history
+  325  git log
+  326  git branch
+  327  history > history.txt
